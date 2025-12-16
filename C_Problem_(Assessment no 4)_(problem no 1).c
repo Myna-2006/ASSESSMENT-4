@@ -9,6 +9,5 @@ int main()
         x=x+1;
         goto loop;
     }
-
     return 0;
 }
